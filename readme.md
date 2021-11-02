@@ -4,6 +4,8 @@
 [![MIT](https://img.shields.io/badge/license-MIT-brightgreen)](https://img.shields.io/badge/license-MIT-brightgreen)
 ## 求star 求关注 拒绝白嫖 呜呜呜  ##
 [![6af89bc8gw1f8q48ds6y9g205k046aas.gif](https://img30.360buyimg.com/pop/jfs/t1/206851/38/5699/37222/616ae4e0E962e8669/c497dffab436fec1.gif)](https://img30.360buyimg.com/pop/jfs/t1/206851/38/5699/37222/616ae4e0E962e8669/c497dffab436fec1.gif)
+https://github.com/Vonalier/meituan-shenquan
+
 # #
 ### 之前所有旧版本都存在重大逻辑问题，新版本已修复，请不要使用旧版
 ###
